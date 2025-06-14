@@ -3,8 +3,8 @@
 </a>
 
 🚀Building Enterprise-Grade, Heavy-Duty Systems & Services with 
-<span style="color:green;">Spring Boot</span> & 
-<span style="color:purple;">ASP.NET Core</span>
+Spring Boot 🟢 & 
+ASP.NET Core 🟣
 
 
 
