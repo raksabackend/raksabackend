@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 
 Building Enterprise-Grade, Heavy-Duty Systems & Services with Spring Boot & ASP.NET Core
-![Spring Boot](https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png)  
-![ASP.NET Core](https://raw.githubusercontent.com/github/explore/main/topics/aspnetcore/aspnetcore.png)
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/aspnetcore/aspnetcore.png" alt="ASP.NET Core" width="100" height="100" />
+
