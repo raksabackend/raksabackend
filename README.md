@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=black&height=300&section=header&text=Hi Everyone!&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=black&height=300&section=header&text=Hi Everyone!&fontSize=90&fontColor=White" />
 <!--
 **raksabackend/raksabackend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
