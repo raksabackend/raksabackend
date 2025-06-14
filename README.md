@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 Building Enterprise-Grade, Heavy-Duty Systems & Services with Spring Boot & ASP.NET Core
 <br>
-<img src="https://github.com/raksabackend/images/blob/main/springboot.png?raw=true" alt="Spring Boot" width="500" height="500" />
-<img src="https://github.com/raksabackend/images/blob/main/ASP.NET%20Core%20MVC.png?raw=true" alt="ASP.NET Core" width="500" height="500" />
+
+<img src="https://github.com/raksabackend/images/blob/main/springboot.png?raw=true" alt="Spring Boot" width="350" height="350" />
+<img src="https://github.com/raksabackend/images/blob/main/ASP.NET%20Core%20MVC.png?raw=true" alt="ASP.NET Core" width="350" height="350" />
 
 
