@@ -4,7 +4,7 @@
 
 🚀Building Enterprise-Grade, Heavy-Duty and Impactful Backend Systems & Services with Spring Boot 🟢 & ASP.NET Core 🟣
 
-📚I am also learning Node.JS 🟡 Python 🔵 Golang 🟦 Rust 🟠 Ruby 🔴 Elixir 🟪
+📚I am also learning Node.JS 🟡 Python 🔵 Golang  Rust 🟠 Ruby 🔴 Elixir 🟪
 
 
 
