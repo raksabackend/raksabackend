@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Building Enterprise-Grade, Heavy-Duty Systems & Services with Spring Boot & ASP.NET Core
+![Spring Boot](https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png)  
+![ASP.NET Core](https://raw.githubusercontent.com/github/explore/main/topics/aspnetcore/aspnetcore.png)
