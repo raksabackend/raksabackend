@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi,Everyone!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi,Everyone!&fontSize=90" />
 
 <a href="#">
-  <img height="50" src="https://i.pinimg.com/originals/cd/54/4e/cd544ea83dedc9872d29289124cc7852.gif"/>
+  <img height="300" width="400" src="https://i.pinimg.com/originals/cd/54/4e/cd544ea83dedc9872d29289124cc7852.gif"/>
 </a>
 
 <!--
